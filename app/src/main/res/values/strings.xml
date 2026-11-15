@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RIAD AI</string>
+    <string name="app_full_form">Responsive Intelligent Attack Defense A.I.</string>
+    <string name="cd_riad_logo">RIAD AI Cybersecurity Shield Emblem</string>
+    <string name="cd_open_navigation">Open navigation sidebar</string>
+    <string name="cd_tts_toggle">Toggle Fenrir voice briefing</string>
+    <string name="cd_voice_dictation">Voice dictation input</string>
+</resources>

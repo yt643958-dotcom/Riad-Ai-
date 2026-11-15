@@ -1,0 +1,6 @@
+{
+  "name": "RIAD AI",
+  "description": "Elite-tier Cybersecurity Expert and Ethical Hacking Specialist assistant with tactical terminal chat, live voice link, AI vulnerability scanner, and cryptographic utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
